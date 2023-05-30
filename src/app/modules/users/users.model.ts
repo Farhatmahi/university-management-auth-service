@@ -1,8 +1,6 @@
 import { Model, Schema, model } from 'mongoose'
 import { IUser } from './users.interface'
 
-const PORT = 4000
-
 type UserModel = Model<IUser, object>
 
 const userSchema = new Schema<IUser>(
