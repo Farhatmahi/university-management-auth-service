@@ -1,6 +1,5 @@
 import { Request, Response } from 'express'
 import usersService from './users.service'
-import router from './users.route'
 
 const createUser = async (req: Request, res: Response) => {
   try {
