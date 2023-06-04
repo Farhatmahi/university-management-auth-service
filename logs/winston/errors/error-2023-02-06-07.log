@@ -1,0 +1,1 @@
+Fri Jun 02 2023 7:38:20 [right meow!] error: Failed to connect to MongoDB The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
