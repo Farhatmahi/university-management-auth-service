@@ -1,7 +1,9 @@
 /* eslint-disable no-undef */
-import express, { Application, Request, Response } from 'express'
+import express, { Application } from 'express'
 import cors from 'cors'
-import usersRouter from './app/modules/users/users.route'
+// import { ApiError } from './errors/ApiError'
+import { globalErrorHandler } from './app/middlewares/globalErrorHandler'
+import { UsersRoutes } from './app/modules/users/users.route'
 
 const app: Application = express()
 
@@ -10,12 +12,15 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 //application router
-// console.log(process.env)
-app.use('/api/v1/users/', usersRouter)
+app.use('/api/v1/users/', UsersRoutes)
 
-//testing
-app.get('/', async (req: Request, res: Response) => {
-  res.send('Hello world!')
+// testing
+app.get('/', () => {
+  // throw new ApiError(400, 'Ore baba! Error')
+  throw new Error('Testing error logger')
 })
+
+//global error handler
+app.use(globalErrorHandler)
 
 export default app
