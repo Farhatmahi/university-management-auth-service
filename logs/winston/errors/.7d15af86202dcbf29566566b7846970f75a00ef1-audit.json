@@ -6,14 +6,14 @@
     "auditLog": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/.7d15af86202dcbf29566566b7846970f75a00ef1-audit.json",
     "files": [
         {
-            "date": 1685669883008,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-02-06-07.log",
-            "hash": "aa150fb5ef7e18ab360153d8bd47ac295b72fdce86dcbd372f6abc21cae397c2"
+            "date": 1686045344344,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-06-06-15.log",
+            "hash": "b5363a8dfa41c251c1747f1f8ada1e4ff6b0abf50feccbfee860cea964d0047d"
         },
         {
-            "date": 1685881009096,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-04-06-18.log",
-            "hash": "5d6590216a5c21853fea9435c92d0dfc0c94e06a3165a8e97b954985e04eaa54"
+            "date": 1686045842530,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-06-06-16.log",
+            "hash": "32d192695e73424a4be51df92c9daa33646160471f419f061af448d0fdcd2016"
         }
     ],
     "hashType": "sha256"
