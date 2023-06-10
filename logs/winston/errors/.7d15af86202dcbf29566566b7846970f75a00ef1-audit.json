@@ -39,6 +39,11 @@
             "date": 1686366004527,
             "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-10-06-09.log",
             "hash": "da58c0c470ea6c8541ed37b17cd7dc51e6bfc0c0f16aa2fb911ae554d37507eb"
+        },
+        {
+            "date": 1686369815815,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-10-06-10.log",
+            "hash": "ce4b92bf099662fa49231936a4a91818da64efeb8196d5ffd66b10fb85b64230"
         }
     ],
     "hashType": "sha256"
