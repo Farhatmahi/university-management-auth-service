@@ -54,6 +54,26 @@
             "date": 1686373217817,
             "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-10-06-11.log",
             "hash": "c10dc13c11b61a5b375676da8787116e1ba6bdc9aa1d12ad9dbc62e3ded42beb"
+        },
+        {
+            "date": 1686461135402,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-11-06-11.log",
+            "hash": "522b320d14697f921d9e483e1acc1dc523347772fc4a51046efefdc2ce0bb054"
+        },
+        {
+            "date": 1686477817899,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-11-06-16.log",
+            "hash": "35f7220e76074ac2451fd0f5ce25efc9a7eed7a7c96f5d154f1630fcb2a6c4f0"
+        },
+        {
+            "date": 1686483609444,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-11-06-17.log",
+            "hash": "9e35e78455d3d76b106a76c56ea32a171b4411b596b271d1e6225cee2ed9e5df"
+        },
+        {
+            "date": 1686485069849,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-11-06-18.log",
+            "hash": "0b809d8f62d99588f81d5036ed8fd683782ecae9663ef968f4cc681094df54c1"
         }
     ],
     "hashType": "sha256"
