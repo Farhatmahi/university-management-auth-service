@@ -44,3 +44,4 @@ export const academicSemesterFilterableFields = [
   'code',
   'year',
 ];
+
