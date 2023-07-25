@@ -6,29 +6,24 @@
     "auditLog": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/.7d15af86202dcbf29566566b7846970f75a00ef1-audit.json",
     "files": [
         {
-            "date": 1687424441468,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-22-06-15.log",
-            "hash": "9f295e7b0f7c555e5fdf3f66b2da5e7c8bd4b4fe91f09cd87c77e73ab206ef4c"
+            "date": 1689568104089,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-17-07-10.log",
+            "hash": "7ccc8fef3652a27796c0459e4a176d746e38d4fb2cb593b7382c0011d882f841"
         },
         {
-            "date": 1687908754278,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-28-06-05.log",
-            "hash": "5ec20e4a760b39d9beda971db5717f1c1c6c8468a801bd0dd71538768e2b90c1"
+            "date": 1689599173504,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-17-07-19.log",
+            "hash": "918b7dfbf9a92407660992412629478afbb8dc5d68ca5dcbf9a43a460e2d6be2"
         },
         {
-            "date": 1687942754806,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-28-06-14.log",
-            "hash": "0d508942a34c5204a502a6ebd40fdbd6314c631e0498dd36d13b8582d0e23d62"
+            "date": 1689604997185,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-17-07-20.log",
+            "hash": "c26b025b6a505d0dbdb57adfe1c79bfe0c5acf8e17c7e08c6ba3d9dcce8279df"
         },
         {
-            "date": 1687942816653,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-28-06-15.log",
-            "hash": "eb0775bd62de4e833f35b28767cf06b7ea27b0bf2692195207298d5ef8ebe487"
-        },
-        {
-            "date": 1687987233672,
-            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-29-06-03.log",
-            "hash": "03b1c1642f1f79256681e0477b4340a83e95f565a4ea70bfb78f553193e88a27"
+            "date": 1690290543585,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/errors/error-2023-25-07-19.log",
+            "hash": "7b0f3f1c01bf84cc24544ebb1c122d45e7e51598c71828b10b6555e9364eb2e0"
         }
     ],
     "hashType": "sha256"
