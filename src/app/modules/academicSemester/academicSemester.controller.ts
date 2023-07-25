@@ -1,4 +1,4 @@
-import { Request, Response, NextFunction } from 'express';
+import { Request, Response } from 'express';
 import { AcademicSemesterService } from './academicSemester.service';
 import { catchAsync } from '../../../shared/catchAsync';
 import httpStatus from 'http-status';
@@ -66,9 +66,23 @@ const updateSemester = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
+const deleteSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
+
+  const result = await AcademicSemesterService.deleteSemester(id);
+
+  sendResponse(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester deleted successfully',
+    data: result,
+  });
+});
+
 export const AcademicSemesterController = {
   createSemester,
   getAllSemesters,
   getSingleSemester,
   updateSemester,
+  deleteSemester,
 };
