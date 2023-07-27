@@ -14,7 +14,7 @@ export const globalErrorHandler: ErrorRequestHandler = (
   error,
   req: Request,
   res: Response,
-  // eslint-disable-next-line no-unused-vars
+  // eslint-disable-next-line no-unused-vars, @typescript-eslint/no-unused-vars
   next: NextFunction
 ) => {
   config.env == 'development'

@@ -24,6 +24,21 @@
             "date": 1690290543583,
             "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-25-07-19.log",
             "hash": "1a3c5aabcde524e919f77c8b1dc570745d2a29e3ccff112a557dab0934ceaedf"
+        },
+        {
+            "date": 1690304746738,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-25-07-23.log",
+            "hash": "7d97bee50bcb16cf60ab4d242af3250b830cd54f8a66cec8db95b276af7a43e0"
+        },
+        {
+            "date": 1690342025942,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-26-07-09.log",
+            "hash": "4b2c9f1efc98ea7f58681a1d051e886242500c660446cfd8a8ec1eea2924a1b4"
+        },
+        {
+            "date": 1690472186821,
+            "name": "/Users/farhatmahi/Documents/ProgrammingHero/university-management/university-management-auth-service/logs/winston/successes/succcess-2023-27-07-21.log",
+            "hash": "50ca62679c121ff9c20d9169abe5d338c8eb495f64cd7c2c78713e5a17b0b01b"
         }
     ],
     "hashType": "sha256"
